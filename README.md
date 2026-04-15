@@ -125,10 +125,10 @@ Owns product design, visual identity, brand strategy, and content production —
 
 - **[DreamApp](https://dreamapp.io)** — Denys and Andrii built this as founders, end-to-end: architecture, design, brand, and go-to-market
 
-**Agency engagements — shipped for clients as a product team:**
+**Agency engagements — shipped for clients:**
 
 - **tip.live** — SaaS platform delivered end-to-end (engineering by Denys, design + brand by Andrii)
-- **Sphotonix** — deep-tech product delivered end-to-end (engineering, design, branding)
+- **Sphotonix** — design, branding, and website for a deep-tech startup (product engineering handled by the client's in-house team)
 
 ### Why this team shape matters for COS specifically
 
