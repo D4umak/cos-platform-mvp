@@ -113,13 +113,20 @@ Each sprint has written acceptance criteria agreed before the sprint starts.
 
 ## Team
 
-**Denys Chumak** — fullstack, architect, product lead
-Co-founder of [tip.live](https://tip.live) and [Sphotonix](https://sphotonix.com). Specializes in fast MVPs, AI-native architectures, and the MCP protocol.
+**Denys Chumak** — engineering, architecture, product lead
+Based in the UK, working with teams in UA/PL/UK. Specializes in fast MVPs, AI-native architectures, the MCP protocol, and React/TypeScript/Node/Python.
 
 **Andrii Pavlov** — design, brand vision, content
-Co-founder of tip.live and Sphotonix with Denys. Owns product design, visual identity, brand strategy, and content production — including the CEO Dashboard look and feel, the branded PDF diagnostic report, the investor demo video, and pitch-deck materials.
+Owns product design, visual identity, brand strategy, and content production — including the CEO Dashboard look and feel, the branded PDF diagnostic report, the investor demo video, and pitch-deck materials.
 
-The combination matters for COS specifically: your consulting partners hand branded PDF diagnostics to their clients (their reputation lives on that document), and your Seed-round investors form a first impression from the demo video and UI. Having a designer + brand lead on the team from Sprint 1 means those artefacts look McKinsey-grade from day one, not retrofitted later.
+### Prior work shipped together as a product team
+
+- **tip.live** — SaaS platform delivered end-to-end (engineering by Denys, design + brand by Andrii)
+- **Sphotonix** — deep-tech product delivered end-to-end (engineering, design, branding)
+
+### Why this team shape matters for COS specifically
+
+Your consulting partners hand branded PDF diagnostics to their clients — their reputation lives on that document. Your Seed-round investors form a first impression from the demo video and UI in the dataroom. Having a designer + brand lead on the team from Sprint 1 means those artefacts look McKinsey-grade from day one, not retrofitted later.
 
 ---
 
