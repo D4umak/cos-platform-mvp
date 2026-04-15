@@ -148,8 +148,10 @@ Full commercial terms are documented separately and shared directly with Stetska
 
 ## Contact
 
-- Denys Chumak — [@D4umak](https://github.com/D4umak)
+- Denys Chumak — GitHub [@D4umak](https://github.com/D4umak) · Telegram [@previously_unknown](https://t.me/previously_unknown)
 - Andrii Pavlov — TBD
+
+For a **free 45-minute discovery call** with Krystyna & Viktor before any commitment, reach out via Telegram. A tailored Statement of Work follows within 2 business days of the call.
 
 ---
 
