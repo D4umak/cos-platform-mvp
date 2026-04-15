@@ -4,7 +4,7 @@
 
 [![Status](https://img.shields.io/badge/status-pre--engagement-blue)](https://github.com/D4umak/cos-platform-mvp)
 [![Architecture](https://img.shields.io/badge/architecture-MCP--first-6B46C1)](#architecture)
-[![Target delivery](https://img.shields.io/badge/delivery-30%20days-green)](#timeline)
+[![Delivery](https://img.shields.io/badge/delivery-8%20weeks%20%C2%B7%204%20sprints-green)](#timeline)
 
 ---
 
@@ -12,7 +12,7 @@
 
 COS Platform guides companies through the full cycle of operational standardization using the **11-element architecture** from the Stetska & Kompanets methodology (9 years of practice, 500+ company diagnostics).
 
-The 30-day MVP delivers an **end-to-end diagnostic workflow**: a partner-consultant runs a live diagnostic through an AI client (Claude Desktop / ChatGPT Desktop / Cursor / Teams+Copilot), and the result renders as a shareable heat-map + Scalability Index™ + PDF report.
+The 8-week MVP — delivered across **four two-week sprints** with milestone-gated acceptance — produces an **end-to-end diagnostic workflow**: a partner-consultant runs a live diagnostic through an AI client (Claude Desktop / ChatGPT Desktop / Cursor / Teams+Copilot), and the result renders as a shareable heat-map + Scalability Index™ + PDF report.
 
 **Why this is different from every other ops-standardization tool on the market:** COS Platform is built *MCP-first*. Your consultants and clients don't log into yet another portal — they interact with COS through the AI tools they already use. This directly implements the core UX principle from the product spec: *"COS должна быть максимально изолирована от ежедневного взаимодействия с пользователями"* — COS is invisible; people just work.
 
@@ -98,14 +98,16 @@ Every department is standardized against the same 11-element checklist. If not a
 
 ## Timeline
 
-A single 30-day push, delivered end-to-end.
+Four two-week sprints. Each sprint ends with a demo and milestone acceptance — the client only pays for accepted work.
 
-| Week | Milestone |
-|------|-----------|
-| **1** | Architecture · MCP server skeleton · first 3 tools · Supabase schema · tested in Claude Desktop |
-| **2** | Full MCP layer (11 elements + Scalability Index + diagnostic-interview prompt + methodology resources) · end-to-end demo |
-| **3** | Web dashboard (heat-map + Scalability Index gauge + org chart + PDF export) · Vercel deploy |
-| **4** | Polish · integration tests · partner onboarding flow · demo video · technical handover |
+| Sprint | Weeks | Milestone |
+|--------|-------|-----------|
+| **1 · Foundation + MCP Core** | 1–2 | Architecture · data model · MCP server skeleton · first 5 tools · Supabase schema · RLS · staging deploy · tested in Claude Desktop |
+| **2 · Full MCP Methodology Layer** | 3–4 | All 11 element tools · Scalability Index™ · diagnostic-interview prompt · methodology resources · end-to-end diagnostic works |
+| **3 · Dashboard + Visualization** | 5–6 | Production web dashboard · heat-map · Scalability Index gauge · org chart · PDF export · Vercel deploy with custom domain |
+| **4 · Integration + Polish + Launch** | 7–8 | Partner onboarding · integration tests · investor demo video · technical documentation · live handover · 2 weeks post-launch support |
+
+Each sprint has written acceptance criteria agreed before the sprint starts.
 
 ---
 
