@@ -119,14 +119,22 @@ Based in the UK, working with teams in UA/PL/UK. Specializes in fast MVPs, AI-na
 **Andrii Pavlov** — design, brand vision, content
 Owns product design, visual identity, brand strategy, and content production — including the CEO Dashboard look and feel, the branded PDF diagnostic report, the investor demo video, and pitch-deck materials.
 
-### Prior work shipped together as a product team
+### Prior work
+
+**Our own product — created together from 0 → market:**
+
+- **[DreamApp](https://dreamapp.io)** — Denys and Andrii built this as founders, end-to-end: architecture, design, brand, and go-to-market
+
+**Agency engagements — shipped for clients as a product team:**
 
 - **tip.live** — SaaS platform delivered end-to-end (engineering by Denys, design + brand by Andrii)
 - **Sphotonix** — deep-tech product delivered end-to-end (engineering, design, branding)
 
 ### Why this team shape matters for COS specifically
 
-Your consulting partners hand branded PDF diagnostics to their clients — their reputation lives on that document. Your Seed-round investors form a first impression from the demo video and UI in the dataroom. Having a designer + brand lead on the team from Sprint 1 means those artefacts look McKinsey-grade from day one, not retrofitted later.
+We've been on both sides: as founders building our own product (DreamApp), so we understand Krystyna's context from the inside — Seed-round pressure, investor expectations, the pace MVPs demand. And as a client-delivery product team (tip.live, Sphotonix), where we work under contract with fixed scope and timelines.
+
+Beyond that: your consulting partners hand branded PDF diagnostics to their clients — their reputation lives on that document. Your Seed-round investors form a first impression from the demo video and UI in the dataroom. Having a designer + brand lead on the team from Sprint 1 means those artefacts look McKinsey-grade from day one, not retrofitted later.
 
 ---
 
